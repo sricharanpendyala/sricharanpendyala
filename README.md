@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sri Charan Pendyala
 
 🎓 Master’s in Business Analytics @ University of Cincinnati  
-💼 Ex-Data Engineering Analyst @ Accenture | Graduate Assistant @ UC Lindner  
+💼 Ex-Data Engineering Analyst @ Accenture | Graduate Assistant - Data Analyst @ UC Lindner  
 📍 Cincinnati, OH | 🌐 [LinkedIn](https://www.linkedin.com/in/sricharan-pendyala-6850911a5)
 
 ---
