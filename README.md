@@ -31,13 +31,11 @@ I’m a data professional with 3+ years of experience transforming complex datas
 **Tech**: Python, scikit-learn  
 - Modeled client retention using survival analysis & ML (92% accuracy)  
 - Compared Decision Trees, KNN, Random Forests, and more  
-🔗 [GitHub Repo](#) (add your repo link)
 
 ### 🔹 Customer Segmentation & Analysis  
 **Tech**: SQL, Python, Power BI  
 - Clustered customer data to enhance marketing campaigns  
 - Built interactive dashboards for behavioral and purchase trends  
-🔗 [GitHub Repo](#) (add your repo link)
 
 ---
 
